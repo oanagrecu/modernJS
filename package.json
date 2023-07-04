@@ -1,0 +1,25 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "Instructions: This project can only run with a certain api + it's key.",
+  "main": "script.js",
+  "scripts": {
+    "test": "run-code"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "Oana grecu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oanagrecu/modernJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oanagrecu/modernJS/issues"
+  },
+  "homepage": "https://github.com/oanagrecu/modernJS#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0"
+  }
+}
